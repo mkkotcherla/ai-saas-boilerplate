@@ -40,7 +40,9 @@ This boilerplate gives you everything needed to launch a production AI SaaS prod
 
 ---
 
-## Screenshots
+## UI 
+
+## login screen
 <img width="1792" height="1064" alt="Screenshot 2026-05-10 at 12 05 46 PM" src="https://github.com/user-attachments/assets/e963e840-3c4b-494d-961f-55b7652e85bb" />
 
  ## User 
@@ -53,9 +55,11 @@ This boilerplate gives you everything needed to launch a production AI SaaS prod
 
 <img width="1792" height="1098" alt="Screenshot 2026-05-10 at 12 02 30 PM" src="https://github.com/user-attachments/assets/a0d7763f-065c-4707-bf94-027f1d0f39b9" />
 
+## New AI agent creation screen
+
 <img width="1792" height="1116" alt="Screenshot 2026-05-10 at 12 02 52 PM" src="https://github.com/user-attachments/assets/d8cd1833-f265-4dcd-97dd-a7977930dec5" />
 
-## AI content
+## AI tool - content studio
 
 <img width="1792" height="1120" alt="Screenshot 2026-05-10 at 12 03 03 PM" src="https://github.com/user-attachments/assets/034ee6a6-9ae8-4083-b192-f7eed7508c50" />
 
@@ -64,6 +68,8 @@ This boilerplate gives you everything needed to launch a production AI SaaS prod
 ## Automation
 
 <img width="1792" height="1116" alt="Screenshot 2026-05-10 at 12 03 23 PM" src="https://github.com/user-attachments/assets/8be208fa-5412-466c-bd44-4d4d3bd0e849" />
+
+ ## New automation creation
 
 <img width="1791" height="1114" alt="Screenshot 2026-05-10 at 12 03 32 PM" src="https://github.com/user-attachments/assets/1c1c0317-672f-499d-ab04-751e2beda973" />
 
